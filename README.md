@@ -37,7 +37,9 @@ https://github.com/thinhotwp1/Hexagonal-Architecture
 
 - Đang dùng microservices hoặc muốn hỗ trợ DDD rõ ràng
 
-<h2>🔹7. Khi mở rộng adapter mà không cần sửa tới logic domain, ở đây thêm adapter kafka ngoài việc xử lý web (RESTFUL)</h2>
+<h2>🔹7. Thêm adapter</h2>
+
+Mở rộng adapter mà không cần sửa tới logic domain, ở đây thêm adapter kafka ngoài việc xử lý web, chỉ cần thêm kafka cho adapter và xử lý kỹ thuật của kafka (không thay đổi logic nghiệp vụ)
 
 ![image](https://github.com/user-attachments/assets/98d25e62-f425-4846-b209-3bf8925293f7)
 

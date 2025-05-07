@@ -15,5 +15,4 @@ public class Order {
         this.totalPrice = price.multiply(BigDecimal.valueOf(quantity));
     }
 
-    // Getters
 }

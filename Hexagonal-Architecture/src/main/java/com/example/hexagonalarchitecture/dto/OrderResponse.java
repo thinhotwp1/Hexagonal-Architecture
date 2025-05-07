@@ -14,5 +14,4 @@ public class OrderResponse {
         this.product = product;
         this.total = total;
     }
-    // Getters
 }

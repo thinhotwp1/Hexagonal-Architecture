@@ -9,5 +9,4 @@ public class OrderRequest {
     private String product;
     private int quantity;
     private BigDecimal price;
-    // Getters and setters
 }
